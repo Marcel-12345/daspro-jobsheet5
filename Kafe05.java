@@ -45,6 +45,8 @@ public class Kafe05{
             case 'L':
             totalHarga += 0.4 * totalHarga;
             break;
+            default:
+            totalHarga = 0;
 
             }
 
